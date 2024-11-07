@@ -386,7 +386,7 @@
 	"Invalid file format.": "",
 	"Invalid Tag": "無効なタグ",
 	"January": "1月",
-	"join our Discord for help.": "ヘルプについては、Discord に参加してください。",
+	"Visit our website for help..": "ヘルプについては、Discord に参加してください。",
 	"JSON": "JSON",
 	"JSON Preview": "JSON プレビュー",
 	"July": "7月",
@@ -516,8 +516,8 @@
 	"Open file": "",
 	"Open in full screen": "",
 	"Open new chat": "新しいチャットを開く",
-	"Open WebUI uses faster-whisper internally.": "",
-	"Open WebUI version (v{{OPEN_WEBUI_VERSION}}) is lower than required version (v{{REQUIRED_VERSION}})": "",
+	"Nuqta private ai uses faster-whisper internally.": "",
+	"Nuqta private ai version (v{{OPEN_WEBUI_VERSION}}) is lower than required version (v{{REQUIRED_VERSION}})": "",
 	"OpenAI": "OpenAI",
 	"OpenAI API": "OpenAI API",
 	"OpenAI API Config": "OpenAI API 設定",
@@ -844,7 +844,7 @@
 	"You're a helpful assistant.": "あなたは有能なアシスタントです。",
 	"You're now logged in.": "ログインしました。",
 	"Your account status is currently pending activation.": "あなたのアカウント状態は現在登録認証待ちです。",
-	"Your entire contribution will go directly to the plugin developer; Open WebUI does not take any percentage. However, the chosen funding platform might have its own fees.": "",
+	"Your entire contribution will go directly to the plugin developer; Nuqta private ai does not take any percentage. However, the chosen funding platform might have its own fees.": "",
 	"Youtube": "YouTube",
 	"Youtube Loader Settings": "YouTubeローダー設定(日本語はja)"
 }

@@ -386,7 +386,7 @@
 	"Invalid file format.": "",
 	"Invalid Tag": "Tag Inválida",
 	"January": "Janeiro",
-	"join our Discord for help.": "junte-se ao nosso Discord para ajuda.",
+	"Visit our website for help..": "junte-se ao nosso Discord para ajuda.",
 	"JSON": "JSON",
 	"JSON Preview": "Pré-visualização JSON",
 	"July": "Julho",
@@ -516,8 +516,8 @@
 	"Open file": "",
 	"Open in full screen": "",
 	"Open new chat": "Abrir novo chat",
-	"Open WebUI uses faster-whisper internally.": "",
-	"Open WebUI version (v{{OPEN_WEBUI_VERSION}}) is lower than required version (v{{REQUIRED_VERSION}})": "A versão do Open WebUI (v{{OPEN_WEBUI_VERSION}}) é inferior à versão necessária (v{{REQUIRED_VERSION}})",
+	"Nuqta private ai uses faster-whisper internally.": "",
+	"Nuqta private ai version (v{{OPEN_WEBUI_VERSION}}) is lower than required version (v{{REQUIRED_VERSION}})": "A versão do Nuqta private ai (v{{OPEN_WEBUI_VERSION}}) é inferior à versão necessária (v{{REQUIRED_VERSION}})",
 	"OpenAI": "OpenAI",
 	"OpenAI API": "API OpenAI",
 	"OpenAI API Config": "Configuração da API OpenAI",
@@ -846,7 +846,7 @@
 	"You're a helpful assistant.": "Você é um assistente útil.",
 	"You're now logged in.": "Você agora está logado.",
 	"Your account status is currently pending activation.": "O status da sua conta está atualmente aguardando ativação.",
-	"Your entire contribution will go directly to the plugin developer; Open WebUI does not take any percentage. However, the chosen funding platform might have its own fees.": "Toda a sua contribuição irá diretamente para o desenvolvedor do plugin; o Open WebUI não retém nenhuma porcentagem. No entanto, a plataforma de financiamento escolhida pode ter suas próprias taxas.",
+	"Your entire contribution will go directly to the plugin developer; Nuqta private ai does not take any percentage. However, the chosen funding platform might have its own fees.": "Toda a sua contribuição irá diretamente para o desenvolvedor do plugin; o Nuqta private ai não retém nenhuma porcentagem. No entanto, a plataforma de financiamento escolhida pode ter suas próprias taxas.",
 	"Youtube": "Youtube",
 	"Youtube Loader Settings": "Configurações do Carregador Youtube"
 }

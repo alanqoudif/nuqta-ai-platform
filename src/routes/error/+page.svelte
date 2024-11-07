@@ -34,12 +34,12 @@
 						<br class=" " />
 						<a
 							class=" font-semibold underline"
-							href="https://github.com/open-webui/open-webui#how-to-install-"
-							target="_blank">{$i18n.t('See readme.md for instructions')}</a
+							href="https://wa.me/message/AUJNXSKSCRP3P1"
+							target="_blank">{$i18n.t('Contact us via WhatsApp')}</a
 						>
 						{$i18n.t('or')}
-						<a class=" font-semibold underline" href="https://discord.gg/5rJgQTnV4s" target="_blank"
-							>{$i18n.t('join our Discord for help.')}</a
+						<a class=" font-semibold underline" href="https://nuqtai.com/help" target="_blank"
+							>{$i18n.t('Visit our website for help..')}</a
 						>
 					</div>
 

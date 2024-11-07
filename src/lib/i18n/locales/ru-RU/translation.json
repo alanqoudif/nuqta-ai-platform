@@ -386,7 +386,7 @@
 	"Invalid file format.": "",
 	"Invalid Tag": "Недопустимый тег",
 	"January": "Январь",
-	"join our Discord for help.": "присоединяйтесь к нашему Discord для помощи.",
+	"Visit our website for help..": "присоединяйтесь к нашему Discord для помощи.",
 	"JSON": "JSON",
 	"JSON Preview": "Предварительный просмотр JSON",
 	"July": "Июль",
@@ -516,8 +516,8 @@
 	"Open file": "Открыть файл",
 	"Open in full screen": "",
 	"Open new chat": "Открыть новый чат",
-	"Open WebUI uses faster-whisper internally.": "",
-	"Open WebUI version (v{{OPEN_WEBUI_VERSION}}) is lower than required version (v{{REQUIRED_VERSION}})": "Версия Open WebUI (v{{OPEN_WEBUI_VERSION}}) ниже требуемой версии (v{{REQUIRED_VERSION}})",
+	"Nuqta private ai uses faster-whisper internally.": "",
+	"Nuqta private ai version (v{{OPEN_WEBUI_VERSION}}) is lower than required version (v{{REQUIRED_VERSION}})": "Версия Nuqta private ai (v{{OPEN_WEBUI_VERSION}}) ниже требуемой версии (v{{REQUIRED_VERSION}})",
 	"OpenAI": "Open AI",
 	"OpenAI API": "API OpenAI",
 	"OpenAI API Config": "Конфигурация API OpenAI",
@@ -847,7 +847,7 @@
 	"You're a helpful assistant.": "Вы полезный ассистент.",
 	"You're now logged in.": "Вы вошли в систему.",
 	"Your account status is currently pending activation.": "В настоящее время ваша учетная запись ожидает активации.",
-	"Your entire contribution will go directly to the plugin developer; Open WebUI does not take any percentage. However, the chosen funding platform might have its own fees.": "Весь ваш взнос будет направлен непосредственно разработчику плагина; Open WebUI не взимает никаких процентов. Однако выбранная платформа финансирования может иметь свои собственные сборы.",
+	"Your entire contribution will go directly to the plugin developer; Nuqta private ai does not take any percentage. However, the chosen funding platform might have its own fees.": "Весь ваш взнос будет направлен непосредственно разработчику плагина; Nuqta private ai не взимает никаких процентов. Однако выбранная платформа финансирования может иметь свои собственные сборы.",
 	"Youtube": "YouTube",
 	"Youtube Loader Settings": "Настройки загрузчика YouTube"
 }
